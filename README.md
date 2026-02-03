@@ -16,4 +16,4 @@ Hi, I'm Raymond! I focus on Data Science, and most of my projects are built arou
 ![ollama](https://img.shields.io/badge/ollama-white?style=for-the-badge&logo=ollama&logoColor=black) <br/>
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-%230E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![google workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Microsift Office](https://img.shields.io/badge/Microsift_Office-f25022?style=for-the-badge)
+![Microsift Office](https://img.shields.io/badge/Microsift_Offices-f25022?style=for-the-badge)
