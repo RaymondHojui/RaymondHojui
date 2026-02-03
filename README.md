@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👀I'm Raymond & This is My Profile
+**A bit About Me:**<br/>
+Hi! I focus on Data Science, and most of my projects are built around working with data, turning it into something useful! I’m currently studying at the [University of Toronto](https://www.utoronto.ca/) <small> CA </small> for [Applied Statistics](http://utm.utoronto.ca/math-cs-stats/undergraduate-students/programs/applied-statistics) & [Communication, Culture, Information & Technology (CCIT)](https://www.utm.utoronto.ca/iccit/about-iccit/programs/communication-culture-information-technology-ccit) I am interested in all sorts of real-world applications for Data Science & Statistics. I am currently learning about Machine learning in production and applications <br/>
 
-<!--
-**RaymondHojui/RaymondHojui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+# 💻 Tool Kit
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![R](https://img.shields.io/badge/R-165CAA?style=for-the-badge&logo=r)
+![Numpy](https://img.shields.io/badge/Numpy-%23013243?style=for-the-badge&logo=numpy&logoColor=white) <br/>
+![Pandas](https://img.shields.io/badge/Pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Markdown](https://img.shields.io/badge/Markdown-white?style=for-the-badge&logo=markdown&logoColor=black)
+![ollama](https://img.shields.io/badge/ollama-white?style=for-the-badge&logo=ollama&logoColor=black) <br/>
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-%230E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+![google workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Microsift Office](https://img.shields.io/badge/Microsift_Office-f25022?style=for-the-badge)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
