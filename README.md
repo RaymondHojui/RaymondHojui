@@ -1,9 +1,10 @@
 # 👀I'm Raymond & This is My Profile
 **`Data Science & Applied Statistics Programmer`**
 
-Hi, I'm Raymond! I focus on Data Science, and most of my projects are built around working with data, turning it into something useful! I’m currently studying at the [University of Toronto](https://www.utoronto.ca/) <small> CA </small> for [Applied Statistics](http://utm.utoronto.ca/math-cs-stats/undergraduate-students/programs/applied-statistics) & [Communication, Culture, Information & Technology (CCIT)](https://www.utm.utoronto.ca/iccit/about-iccit/programs/communication-culture-information-technology-ccit) I am interested in all sorts of real-world applications for Data Science & Statistics. I am currently learning about Machine learning in production and applications. <br/>
+Hi, I'm Raymond! I focus on Data Science, and most of my projects are built around working with data, turning it into something useful! I’m currently studying at the [University of Toronto](https://www.utoronto.ca/) <sub>CA</sub> for [Applied Statistics](http://utm.utoronto.ca/math-cs-stats/undergraduate-students/programs/applied-statistics) & [Communication, Culture, Information & Technology (CCIT)](https://www.utm.utoronto.ca/iccit/about-iccit/programs/communication-culture-information-technology-ccit). I am interested in all sorts of real-world applications for Data Science & Statistics. I am currently learning about Machine learning and its applications in production.
 
-[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](linkedin.com/in/hojui-raymond-wu)
+[![LinkedIn](https://i.sstatic.net/gVE0j.png) LinkedIn](https://linkedin.com/in/hojui-raymond-wu)<br/>
+
 ---
 # 💻 Tool Kit
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
