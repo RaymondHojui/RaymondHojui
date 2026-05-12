@@ -1,7 +1,7 @@
 # 👀I'm Raymond & This is My Profile
 **`Data Science & Applied Statistics Programmer`**
 
-Hi, I'm Raymond! I focus on Data Science, and most of my projects are built around working with data, turning it into something useful! I’m currently studying at the [University of Toronto](https://www.utoronto.ca/) <sub>CA</sub> for [Applied Statistics](http://utm.utoronto.ca/math-cs-stats/undergraduate-students/programs/applied-statistics) & [Communication, Culture, Information & Technology (CCIT)](https://www.utm.utoronto.ca/iccit/about-iccit/programs/communication-culture-information-technology-ccit). I am interested in all sorts of real-world applications for Data Science & Statistics. I am currently learning about Machine learning and its applications in production.
+Hi, I'm Raymond! I focus on Data Science, and most of my projects are built around working with data, turning it into something useful! I’m currently studying at the [University of Toronto](https://www.utoronto.ca/) <sub>CA</sub> for [Mathematics](https://artsci.calendar.utoronto.ca/section/Mathematics) & [Statistic](https://artsci.calendar.utoronto.ca/section/Statistical-Sciences) & [Digital Humanities](https://artsci.calendar.utoronto.ca/program/asmin1337). I am interested in all sorts of real-world applications for Data Science & Statistics. I am currently learning about Machine learning and its applications in production.
 
 [![LinkedIn](https://i.sstatic.net/gVE0j.png) LinkedIn](https://linkedin.com/in/hojui-raymond-wu)<br/>
 
